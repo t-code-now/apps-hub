@@ -1,0 +1,23 @@
+[
+  {
+    "name": "תכנית אינטראקטיבית בחינוך גופני",
+    "icon": "🏃",
+    "url": "https://t-code-now.github.io/pe-app/",
+    "description": "תכנית לימודים אינטראקטיבית לשיעורי חינוך גופני",
+    "color": "#16a34a"
+  },
+  {
+    "name": "תכנית אינטראקטיבית בתכנות",
+    "icon": "💻",
+    "url": "https://t-code-now.github.io/school-proggraming/",
+    "description": "תכנית לימודים אינטראקטיבית לשיעורי תכנות",
+    "color": "#2563eb"
+  },
+  {
+    "name": "אפליקציית אימוני הכושר הגופני",
+    "icon": "💪",
+    "url": "https://t-code-now.github.io/trainandfit-app/",
+    "description": "אימוני כושר ומעקב התקדמות",
+    "color": "#ea580c"
+  }
+]
